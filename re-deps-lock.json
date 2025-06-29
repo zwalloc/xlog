@@ -1,5 +1,6 @@
 {
-    "github:osdeverr/futile^1.0.0": "v1.0.0",
-    "github:zwalloc/ulib-fmt^1.0.0": "v1.0.0",
+    "github:zwalloc/fmt-re^9.1.0": "v9.1.0",
+    "github:zwalloc/futile^1.0.0": "v1.0.0",
+    "github:zwalloc/ulib-fmt^1.0.0": "v1.0.2",
     "github:zwalloc/ulib^1.0.0": "v1.0.0"
 }
